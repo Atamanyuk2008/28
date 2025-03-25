@@ -1,0 +1,7 @@
+D:\visual\28.3\bin\Debug\28.3.exe.config
+D:\visual\28.3\bin\Debug\28.3.exe
+D:\visual\28.3\bin\Debug\28.3.pdb
+D:\visual\28.3\obj\Debug\28.3.csproj.AssemblyReference.cache
+D:\visual\28.3\obj\Debug\28.3.csproj.CoreCompileInputs.cache
+D:\visual\28.3\obj\Debug\28.3.exe
+D:\visual\28.3\obj\Debug\28.3.pdb
